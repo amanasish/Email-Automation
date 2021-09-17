@@ -1,2 +1,3 @@
-# RPA-Challenge
-Bot on RPA Challenge
+# Email Automation
+Bot to send emails in excell file 
+
