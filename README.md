@@ -1,3 +1,3 @@
 # Email Automation
-Bot to send emails in excell file 
+Bot to send emails in excel file 
 
